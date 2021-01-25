@@ -5,9 +5,9 @@
 
 hi :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu), focusing on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. 
 
-I teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
+I manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
 
-<img src="https://pbs.twimg.com/profile_images/834827464257986561/Fc_gr7Pk_400x400.jpg" width=20px /> &nbsp; Like rocks and computers? [**Join the Software Underground!**](https://softwareunderground.org/slack)
+<img src="https://pbs.twimg.com/profile_images/834827464257986561/Fc_gr7Pk_400x400.jpg" width=20px /> &nbsp; Like rocks and computers? [Join the Software Underground!](https://softwareunderground.org/slack)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
