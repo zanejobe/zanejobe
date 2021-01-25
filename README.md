@@ -3,7 +3,7 @@
 [<img align="left" alt="zanejobe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zanejobe)
 [<img align="left" alt="Zane Jobe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zane-jobe)
 
---- 
+<br />
 
 hi :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu), focusing on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. 
 
