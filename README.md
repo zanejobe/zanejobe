@@ -9,9 +9,9 @@
 
 :mortar_board: I manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
 
-:mountain: I spend as much time as I can in the field collecting data with incredible students in CoRE
+:mountain: I spend as much time as I can in the field collecting data with incredible students in CoRE.
 
-:bike: I enjoy mountain biking when I'm not geologizing
+:bike: I enjoy mountain biking when I'm not geologizing.
 
 <img src="https://pbs.twimg.com/profile_images/834827464257986561/Fc_gr7Pk_400x400.jpg" width=20px /> &nbsp; Like rocks and computers? [Join the Software Underground!](https://softwareunderground.org/slack)
 
