@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [<img align="left" alt="core.mines.edu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://core.mines.edu)
+[<img align="left" alt="zanejobe | Scholar" width="22px" src="https://camo.githubusercontent.com/80c1726d97a306a48189cb105cb4c0667d5adf140dc35daf05713873170b20ff/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f676f6f676c652d7363686f6c61722e706e67" />](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en)
 [<img align="left" alt="zanejobe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zanejobe)
 [<img align="left" alt="Zane Jobe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zane-jobe)
 
