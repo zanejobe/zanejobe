@@ -8,7 +8,7 @@
 
 [<img align="left" alt="zanejobe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zanejobe)
 
-[![Twitter](https://img.shields.io/badge/twitter/url?style=social)](https://twitter.com/zanejobe)
+[![Twitter](https://img.shields.io/twitter/url/https/zanejobe.svg?style=social](https://twitter.com/zanejobe)
 <br />
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
