@@ -10,7 +10,7 @@
 
 <br />
 
-[<img align="left" alt="Zane Jobe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zane-jobe)
+[![Linked in 2]<img align="left" alt="Zane Jobe | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zane-jobe)
 
 <br />
 
