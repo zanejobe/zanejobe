@@ -6,9 +6,7 @@
 
 <br />
 
-[<img align="left" alt="zanejobe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zanejobe)
-
-[![Twitter](https://img.shields.io/badge/style=flat&logo=Twitter](https://twitter.com/zanejobe)](https://twitter.com/zanejobe)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
 
 <br />
 
