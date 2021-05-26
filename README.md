@@ -1,4 +1,4 @@
-[<img align="left" alt="core.mines.edu" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://core.mines.edu)
+[<img align="left" alt="core.mines.edu" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://core.mines.edu) Research website
 
 <br />
 
