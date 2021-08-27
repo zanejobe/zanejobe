@@ -2,7 +2,7 @@
 <br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
 <br />
-[<img align="left" alt="core.mines.edu" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://core.mines.edu) Research group website 
+[<img align="left" alt="core.mines.edu" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/png/globe.png" />](https://core.mines.edu) Research group website 
 <br />
 [<img align="left" alt="zanejobe | Scholar" width="25px" src="https://camo.githubusercontent.com/80c1726d97a306a48189cb105cb4c0667d5adf140dc35daf05713873170b20ff/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f676f6f676c652d7363686f6c61722e706e67" style="background-color:white"/>](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) Google Scholar profile
 
