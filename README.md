@@ -1,5 +1,5 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
-|
+<br />
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
 <br />
 [<img align="left" alt="core.mines.edu" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://core.mines.edu) Research group website 
