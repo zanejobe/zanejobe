@@ -1,4 +1,4 @@
-### ⛏️ 1D to 4D sedimentary geology
+### 🪨 ➡️ 🌎            Using 1D  )and 2D to predict 3D and 4D 
 
 :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. 
 
