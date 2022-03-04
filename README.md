@@ -2,11 +2,6 @@
 
 :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. 
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
-<br />
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
-<br />
-
 🌎 (https://core.mines.edu)[Research group website]
 
 
@@ -21,6 +16,11 @@
 :mountain: I spend as much time as I can in the field collecting data with incredible students in CoRE.
 
 :bike: I enjoy mountain and road biking when I'm not geologizing.
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
+<br />
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
+<br />
 
 <img src="https://pbs.twimg.com/profile_images/834827464257986561/Fc_gr7Pk_400x400.jpg" width=20px /> &nbsp; Like rocks and computers? [Join the Software Underground!](https://softwareunderground.org/slack)
 
