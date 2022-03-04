@@ -1,4 +1,4 @@
-### ⚒️ From 1D data to 4D evolution for sedimentary geology 
+### ⚒️ Sedimentary geology: From 1D borehole and 2D outcrops to 3D and 4D evolution
 
 :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. I also manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
 
