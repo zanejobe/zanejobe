@@ -1,21 +1,16 @@
-### ⚒️ Sedimentary geology: From 1D borehole and 2D outcrops to 3D and 4D evolution
+### ⚒️ Sedimentary geology: From 1D to 4D
 
-:wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. I also manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
-
-⛰️ I spend as much time as I can in the field collecting data with incredible students in CoRE.
+👋 I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. I spend as much time as I can in the field collecting data with incredible students in CoRE, and I enjoy cycling and toddler wrangling. I also manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
 
 🌎 [CoRE website](https://core.mines.edu)
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en)
-
 🐍 [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/)
 
-🚲 I enjoy mountain and road biking when I'm not geologizing.
+🎓 [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
-<br />
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zane-jobe/)
-<br />
 
 🖥️ Like rocks and computers? [Join the Software Underground!](https://softwareunderground.org/slack)
 
