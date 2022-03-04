@@ -2,16 +2,11 @@
 
 :wave:, I'm Zane! I'm a research professor at Colorado School of Mines, and Director of the [CoRE research group](https://core.mines.edu). I focus on reconstructing the 3D architecture and 4D evolution of depositional systems using commonly available but incomplete 1D and 2D data and appropriate machine-learning models. 
 
-🌎 (https://core.mines.edu)[Research group website]
+🌎 [CoRE website](https://core.mines.edu)
 
+🎓 [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en)
 
-[<img align="left" alt="core.mines.edu" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/png/globe.png" style="background-color:white;" />](https://core.mines.edu) Research group website 
-<br />
-[<img align="left" alt="zanejobe | Scholar" width="20px" src="https://camo.githubusercontent.com/80c1726d97a306a48189cb105cb4c0667d5adf140dc35daf05713873170b20ff/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f676f6f676c652d7363686f6c61722e706e67" style="background-color:white"/>](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) Google Scholar profile
-
-<br />
-
-🐍: I manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
+🐍 I manage and teach courses for the [Earth Resource Data Science](https://online.mines.edu/earth-resources-online/) program at Mines - check out the pinned repo below!
 
 :mountain: I spend as much time as I can in the field collecting data with incredible students in CoRE.
 
