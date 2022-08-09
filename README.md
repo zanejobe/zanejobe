@@ -8,7 +8,7 @@
 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en)
 
-💾 [curriculum vitae](https://zanejobe.github.io/curriculum-vitae/)
+💾 [Curriculum Vitae](https://zanejobe.github.io/curriculum-vitae/)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/zanejobe.svg?style=social&label=Follow%20%40zanejobe)](https://twitter.com/cloudposse)
 
